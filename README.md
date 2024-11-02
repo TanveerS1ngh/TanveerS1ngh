@@ -37,17 +37,18 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 # Skills
 
-|Technical|SME|TOOLS(DAST,SAST)|Known OS|Scripting Language|
-|-|-|-|-|-|
-|Security Assessment|Invicti|
+| **Technical**           | **Subject Matter Expert (SME)**            | **Tools (DAST, SAST, SCA)**            | **Known OS**        | **Scripting Language** |
+|-------------------------|--------------------------------------------|----------------------------------------|----------------------|-------------------------|
+| Security Assessment     | Invicti                                    | Metasploit                             | Linux               | Bash                    |
+| Penetration Testing     | Tenable.io Webapp                          | Burp Suite                             | Windows             | Python                  |
+| API Testing             | Burp Suite Pro and Enterprise              | Nmap                                   | Mac                 | Shell                   |
+| Network Testing         | Bitsight                                   | Nikto                                  |                      |                         |
+| Threat Modeling         | Security Scorecard                         | Sqlmap                                 |                      |                         |
+|                         | Kali Linux Open Source                     | Checkmarx (SAST & SCA)                 |                      |                         |
+|                         | Checkmarx SAST                             | Tenable                                |                      |                         |
+|                         | Checkmarx SCA                              | Nessus                                 |                      |                         |
+|                         |                                            | Postman                                |                      |                         |
 
-|**Category**| **Skills/Tools**|
-|-|-|
-|**Technical**| - Security Assessment<br>- Penetration Testing<br>- Web Application<br>- Thick Clint(Mac Applicaion, Windows Application)<br>- API Testing<br>- Network Testing<br>- Threat Modeling<br>- AWS|
-|**Known OS** | - Linux<br>- Windows<br>- Mac|
-|**Known Scripting** |- Bash<br>- Python<br>- Shell|
-|**Subject Matter Expert**| - Invicti<br>- Tenable.io Webapp<br>- Burp Suite Pro and Enterprise<br>- Bitsight<br>- Security Scorecard<br>- Kali Linux Open Source<br>- Checkmarx SAST<br>- Checkmarx SCA |
-|**Tools (DAST, SAST, SCA)**| - Metasploit<br>- Burp Suite<br>- Nmap<br>- Nikto<br>- Sqlmap<br>- Checkmarx (SAST & SCA)<br>- Tenable<br>- Nessus<br>- Postman |
 
 
 # Interests
