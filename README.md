@@ -5,7 +5,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 # Professional Experience
 
 # Achivements
-
+![Hack The Box Achievement Badge](https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4)
 ## Hack the Box Academy
 ![](https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/9994f6ac-c408-11ed-acfc-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/49064a1f-ce43-11ee-891c-bea50ffe6cb4) |
 |![](https://academy.hackthebox.com/achievement/badge/6dd7d7e6-ce5d-11ee-891c-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/80cc2aee-d732-11ee-891c-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/9a4b24e1-d4e1-11ee-891c-bea50ffe6cb4), ![](https://academy.hackthebox.com/achievement/badge/9a89c148-d4e1-11ee-891c-bea50ffe6cb4),![](https://academy.hackthebox.com/achievement/badge/e7910da5-d4c9-11ee-891c-bea50ffe6cb4) |
