@@ -10,7 +10,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 |  Category   |                         Card                         |                                        Badge                                          |
 | :---------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-|   General   | ![https://academy.hackthebox.com/achievement/18553/9] | https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4 |
+|   General   | ![](https://academy.hackthebox.com/achievement/18553/9) | https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4 |
 |   General   | https://academy.hackthebox.com/achievement/18553/15  | https://academy.hackthebox.com/achievement/badge/9994f6ac-c408-11ed-acfc-bea50ffe6cb4 |
 |   General   | https://academy.hackthebox.com/achievement/18553/18  | https://academy.hackthebox.com/achievement/badge/49064a1f-ce43-11ee-891c-bea50ffe6cb4 |
 |   General   | https://academy.hackthebox.com/achievement/18553/87  | https://academy.hackthebox.com/achievement/badge/6dd7d7e6-ce5d-11ee-891c-bea50ffe6cb4 |
