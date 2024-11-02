@@ -37,7 +37,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 # Skills
 
-| **Technical**           | **Subject Matter Expert (SME)**            | **Tools (DAST, SAST, SCA)**            | **Known OS**        | **Scripting Language** |
+| **Technical**| **Subject Matter Expert (SME)**| **Tools (DAST, SAST)**| **Known OS**| **Scripting Language** |
 |-------------------------|--------------------------------------------|----------------------------------------|----------------------|-------------------------|
 | Security Assessment| Invicti| Metasploit| Linux| Bash|
 | Penetration Testing| Tenable.io Webapp| Burp Suite| Windows| Python|
