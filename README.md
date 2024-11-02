@@ -120,8 +120,19 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 |2017 – 2018|ATL Education (Diploma of 6 Months)|Information Security|
 |2014 – 2016 |Guru Nanak Khalsa School Senior Secondary School|High School Studies (+2)|
 
-
-
 # Skills
+
+|Technical|SME|TOOLS(DAST,SAST)|Known OS|Scripting Language|
+|-|-|-|-|-|
+|Security Assessment|Invicti|
+
+| **Category**               | **Skills/Tools**                                                                                         |
+|----------------------------|---------------------------------------------------------------------------------------------------------|
+| **Technical**              | - Security Assessment<br>- Penetration Testing<br>- API Testing<br>- Network Testing<br>- Threat Modeling |
+| **Known OS and Scripting** | - Linux<br>- Windows<br>- Mac<br>- Bash<br>- Python<br>- Shell                                          |
+| **Industrial**             | - Team Work<br>- Problem-Solving<br>- Basic Forensics Skills<br>- Knowledge of Security Across Various Platforms |
+| **Subject Matter Expert**  | - Invicti<br>- Tenable.io Webapp<br>- Burp Suite Pro and Enterprise<br>- Bitsight<br>- Security Scorecard<br>- Kali Linux Open Source<br>- Checkmarx SAST<br>- Checkmarx SCA |
+| **Tools (DAST, SAST, SCA)**| - Metasploit<br>- Burp Suite<br>- Nmap<br>- Nikto<br>- Sqlmap<br>- Checkmarx (SAST & SCA)<br>- Tenable<br>- Nessus<br>- Postman |
+
 
 # Interests
