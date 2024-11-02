@@ -49,6 +49,5 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 || Checkmarx SCA| Nessus|||
 ||| Postman|||
 
-
-
 # Interests
+Mentoring | Playing Hacking CTF | Traveling For Work | Gaming | Learning New Stuff In | Cyber Security | Sharing And Gaining Knowledge over social media
