@@ -20,7 +20,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 # Achivements
 
-![Hack The Box Badge](https://images.weserv.nl/?url=academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4)
+![image](https://github.com/user-attachments/assets/e77b1567-f917-4785-8408-f7cf6f722b8c)
 
 
 ## Hack the Box Academy Achievements
