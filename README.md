@@ -18,7 +18,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 |                     |                                             |                           | Supported junior IT team members and introduced automated testing frameworks, enhancing vulnerability assessment efficiency and testing quality.                                                                                            |                      |
 
 
-# Achivements
+<!--# Achivements
 
 ## Hack the Box Academy Achievements
 
@@ -39,9 +39,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 ![Badge](https://academy.hackthebox.com/achievement/badge/bb24781c-7a9a-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/c7fb4f0c-988c-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/59b13526-9897-11ef-864f-bea50ffe6cb4)
 
 ![Badge](https://academy.hackthebox.com/achievement/badge/f938dae8-ce5c-11ee-891c-bea50ffe6cb4)
-
-
-
+-->
 
 # Education
 
