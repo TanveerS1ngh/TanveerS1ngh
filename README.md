@@ -39,15 +39,15 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 | **Technical**           | **Subject Matter Expert (SME)**            | **Tools (DAST, SAST, SCA)**            | **Known OS**        | **Scripting Language** |
 |-------------------------|--------------------------------------------|----------------------------------------|----------------------|-------------------------|
-| Security Assessment     | Invicti                                    | Metasploit                             | Linux               | Bash                    |
-| Penetration Testing     | Tenable.io Webapp                          | Burp Suite                             | Windows             | Python                  |
-| API Testing             | Burp Suite Pro and Enterprise              | Nmap                                   | Mac                 | Shell                   |
-| Network Testing         | Bitsight                                   | Nikto                                  |                      |                         |
-| Threat Modeling         | Security Scorecard                         | Sqlmap                                 |                      |                         |
-|                         | Kali Linux Open Source                     | Checkmarx (SAST & SCA)                 |                      |                         |
-|                         | Checkmarx SAST                             | Tenable                                |                      |                         |
-|                         | Checkmarx SCA                              | Nessus                                 |                      |                         |
-|                         |                                            | Postman                                |                      |                         |
+| Security Assessment| Invicti| Metasploit| Linux| Bash|
+| Penetration Testing| Tenable.io Webapp| Burp Suite| Windows| Python|
+| Web Application Testing | Burp Suite Pro and Enterprise| Nmap| Mac| Shell|
+| Thick Clint(Mac/Windows Desktop Application)| Bitsight| Nikto|||
+| Threat Modeling| Security Scorecard| Sqlmap|||
+| API Testing| Kali Linux Open Source| Checkmarx (SAST & SCA)|||
+| Network Testing| Checkmarx SAST| Tenable|||
+|| Checkmarx SCA| Nessus|||
+||| Postman|||
 
 
 
