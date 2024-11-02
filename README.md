@@ -60,7 +60,7 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 | Threat Modeling| Security Scorecard| Sqlmap|||
 | API Testing| Kali Linux Open Source| Checkmarx (SAST & SCA)|||
 | Network Testing| Checkmarx SAST| Tenable|||
-|| Checkmarx SCA| Nessus|||
+|AI LLM Testing| Checkmarx SCA| Nessus|||
 ||| Postman|||
 
 # Interests
