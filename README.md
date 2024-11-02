@@ -114,6 +114,14 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 # Education
 
+|Year| College\School Name | Course|
+|-|-|-|
+|2018 – 2021|Chandigarh Groups of Colleges|Bachelor of Computer Applications|
+|2017 – 2018|ATL Education (Diploma of 6 Months)|Information Security|
+|2014 – 2016 |Guru Nanak Khalsa School Senior Secondary School|High School Studies (+2)|
+
+
+
 # Skills
 
 # Interests
