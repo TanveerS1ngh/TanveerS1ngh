@@ -20,26 +20,32 @@ Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a se
 
 # Achivements
 
-## Hack the Box Academy
-![](https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/9994f6ac-c408-11ed-acfc-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/49064a1f-ce43-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/6dd7d7e6-ce5d-11ee-891c-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/80cc2aee-d732-11ee-891c-bea50ffe6cb4) ![](https://academy.hackthebox.com/achievement/badge/9a4b24e1-d4e1-11ee-891c-bea50ffe6cb4), ![](https://academy.hackthebox.com/achievement/badge/9a89c148-d4e1-11ee-891c-bea50ffe6cb4),![](https://academy.hackthebox.com/achievement/badge/e7910da5-d4c9-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/d97829d4-ceed-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/e7ede602-ce8b-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/995c64ac-d34c-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/b916cc5f-e55d-11ee-b18d-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/1b47e323-d59b-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/9b202a76-4f08-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/104300d5-7732-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/40a322c6-4b62-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/c521218f-d1bd-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/a0b18290-51b1-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/75eeeb4d-63d2-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/a44a58c1-6514-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/8a642a90-d33e-11ee-891c-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/bb24781c-7a9a-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/c7fb4f0c-988c-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/59b13526-9897-11ef-864f-bea50ffe6cb4) |
-|![](https://academy.hackthebox.com/achievement/badge/f938dae8-ce5c-11ee-891c-bea50ffe6cb4) |
+## Hack the Box Academy Achievements
+
+## Hack the Box Academy Achievements
+
+### 🏆 Achievements
+
+![Badge](https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/9994f6ac-c408-11ed-acfc-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/49064a1f-ce43-11ee-891c-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/6dd7d7e6-ce5d-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/80cc2aee-d732-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/9a4b24e1-d4e1-11ee-891c-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/9a89c148-d4e1-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/e7910da5-d4c9-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/d97829d4-ceed-11ee-891c-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/e7ede602-ce8b-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/995c64ac-d34c-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/b916cc5f-e55d-11ee-b18d-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/1b47e323-d59b-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/9b202a76-4f08-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/104300d5-7732-11ef-864f-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/40a322c6-4b62-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/c521218f-d1bd-11ee-891c-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/a0b18290-51b1-11ef-864f-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/75eeeb4d-63d2-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/a44a58c1-6514-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/8a642a90-d33e-11ee-891c-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/bb24781c-7a9a-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/c7fb4f0c-988c-11ef-864f-bea50ffe6cb4) ![Badge](https://academy.hackthebox.com/achievement/badge/59b13526-9897-11ef-864f-bea50ffe6cb4)
+
+![Badge](https://academy.hackthebox.com/achievement/badge/f938dae8-ce5c-11ee-891c-bea50ffe6cb4)
+
+
+
 
 # Education
 
