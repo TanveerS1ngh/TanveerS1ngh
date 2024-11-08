@@ -1,6 +1,6 @@
 # Who's Profile is this
 
-Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a seasoned Security Engineer with seven years of dedicated self-learning. His journey has forged a proficiency in Web Security Assessment, API Testing, Network Testing, AWS Cloud Security, AI LLM and Penetration Testing . Tanveer thrives independently and collaborates seamlessly within open-minded teams, currently contributing to an exceptional group of professionals. His commitment to continual learning and active assimilation of new information positions him as an ideal candidate for roles demanding both hard work and strategic thinking. Known for friendliness and dedication, Tanveer is a reliable asset in the pursuit of excellence within the industry.
+Hi there 👋, Meet Tanveer Singh(Divine Clown) who own this profile, he is a seasoned Security Engineer with 10 years of dedicated self-learning and 2+ years of corporate experience. His journey has forged a proficiency in Web Security Assessment, API Testing, Network Testing, AWS Cloud Security, AI LLM and Penetration Testing . Tanveer thrives independently and collaborates seamlessly within open-minded teams, currently contributing to an exceptional group of professionals. His commitment to continual learning and active assimilation of new information positions him as an ideal candidate for roles demanding both hard work and strategic thinking. Known for friendliness and dedication, Tanveer is a reliable asset in the pursuit of excellence within the industry.
 
 # Professional Experience
 
